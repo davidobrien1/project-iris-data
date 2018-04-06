@@ -7,7 +7,7 @@
 ### Student:    David O'Brien
 ### Student ID: G00364766
 
-# Project Plan
+# Project Plan Check List
 
 **1 - Researching the data set**
 - [ ] What investigating a data set entails
@@ -38,23 +38,25 @@
 - [ ] Item 2
 - [ ] Item 3
 
-## How to run the Python code and what it does
+**5 - [ ] How to run the Python code and what it does**
 
 
-## Use of Python libraries and other
+**6 - Use of Python libraries and other**
 
-## Creating the Readme file
+**7 - Creating the Readme file**
 
 As the first part of this project involved creating the project plan within the Readme file, I found myself researching various formatting syntax for Markdown files.  Much of the information found online seems to be repetitive and I found that the references in [2](https://guides.github.com/features/mastering-markdown/) and [3](https://help.github.com/articles/basic-writing-and-formatting-syntax/) below cover much of the information I required for this project.
 
-## Use of Github
+**8 - Use of Github**
 
-## Double check that use of data is licensed, referenced
+**9 - Double check that use of data is licensed, referenced**
 
-## References
+**10 - References**
 
 1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
 2 - https://guides.github.com/features/mastering-markdown/ - used for formatting Readme file
 
 3 - https://help.github.com/articles/basic-writing-and-formatting-syntax/ - used for formatting Readme file
+
+**11 - Review**
