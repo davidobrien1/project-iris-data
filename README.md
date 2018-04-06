@@ -7,6 +7,22 @@
 ### Student:    David O'Brien
 ### Student ID: G00364766
 
+
+
+**Creating the Readme file**
+
+As the first part of this project involved creating the project plan within the Readme file, I found myself researching various formatting syntax for Markdown files.  Much of the information found online seems to be repetitive and I found that the references in [2](https://guides.github.com/features/mastering-markdown/) and [3](https://help.github.com/articles/basic-writing-and-formatting-syntax/) below cover much of the information I required for this project.
+
+**References**
+
+1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
+
+2 - https://guides.github.com/features/mastering-markdown/ - used for formatting Readme file
+
+3 - https://help.github.com/articles/basic-writing-and-formatting-syntax/ - used for formatting Readme file
+
+**-------------------------------------------------------------------------------------------**
+
 # Project Plan Check List
 
 **1 - Researching the data set**
@@ -32,31 +48,36 @@
 - [ ] Example 2
 - [ ] Example 3
 
-
 **4 - Write a summary of the investigations including tables and graphs**
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3
 
-**5 - [ ] How to run the Python code and what it does**
+**5 - Update Project Plan as research progresses and additional information becomes apparent**
+- [ ] Consider any new information learned as part of the project plan
 
+**5 - How to run the Python code and what it does**
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
-**6 - Use of Python libraries and other**
+**6 - Use of Python libraries and other modules**
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
 **7 - Creating the Readme file**
-
-As the first part of this project involved creating the project plan within the Readme file, I found myself researching various formatting syntax for Markdown files.  Much of the information found online seems to be repetitive and I found that the references in [2](https://guides.github.com/features/mastering-markdown/) and [3](https://help.github.com/articles/basic-writing-and-formatting-syntax/) below cover much of the information I required for this project.
+- [ ] Discuss how the Readme file was created
 
 **8 - Use of Github**
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
-**9 - Double check that use of data is licensed, referenced**
-
-**10 - References**
-
-1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
-
-2 - https://guides.github.com/features/mastering-markdown/ - used for formatting Readme file
-
-3 - https://help.github.com/articles/basic-writing-and-formatting-syntax/ - used for formatting Readme file
+**9 - References**
+- [ ] Double check that use of data is licensed and referenced
+- [ ] Item 2
+- [ ] Item 3
 
 **11 - Review**
+- [ ] Review all project items for any errors and improvements
