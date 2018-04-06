@@ -1,2 +1,8 @@
-# project-iris-data
-Programming and Scripting Project
+![Image of GMIT logo](https://3m20wtf9vk-flywheel.netdna-ssl.com/wp-content/uploads/2011/12/gmitlogo.jpg)
+
+# Programming and Scripting
+
+## Semester 1 Project 2018 - Fisher's Irish Data Set
+
+### Student:    David O'Brien
+### Student ID: G00364766
