@@ -56,25 +56,25 @@ As the first part of this project involved creating the project plan within the 
 **5 - Update Project Plan as research progresses and additional information becomes apparent**
 - [ ] Consider any new information learned as part of the project plan
 
-**5 - How to run the Python code and what it does**
+**6 - How to run the Python code and what it does**
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3
 
-**6 - Use of Python libraries and other modules**
+**7 - Use of Python libraries and other modules**
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3
 
-**7 - Creating the Readme file**
+**8 - Creating the Readme file**
 - [ ] Discuss how the Readme file was created
 
-**8 - Use of Github**
+**9 - Use of Github**
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3
 
-**9 - References**
+**10 - References**
 - [ ] Double check that use of data is licensed and referenced
 - [ ] Item 2
 - [ ] Item 3
