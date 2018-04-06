@@ -17,6 +17,7 @@
   * What does the data contain?
   * The background surrounding it
   * Why is this data talked about so much when it comes to data analytics
+
 2 - Investigation of the Iris data set
   * Download the Iris data set
   * Summary Statistics
@@ -27,7 +28,9 @@
     * Current spread within the data
     * Standard deviations
     * Histogram of different columns 
+
 3 - Other analyses of the Iris data set
+
 4 - Write a summary of the investigations including tables and graphs
 
 ## How to run the Python code and what it does
