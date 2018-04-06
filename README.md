@@ -2,7 +2,7 @@
 
 # Programming and Scripting
 
-## Semester 1 Project 2018 - Fisher's Irish Data Set
+## Semester 1 Project 2018 - Fisher's Iris Data Set
 
 ### Student:    David O'Brien
 ### Student ID: G00364766
