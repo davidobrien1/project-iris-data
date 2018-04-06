@@ -43,6 +43,10 @@
 
 ## Use of Python libraries and other
 
+## Creating the Readme file
+
+As the first part of this project involved creating the project plan within the Readme file, I found myself researching various formatting syntax for Markdown files.  Much of the information found online seems to be repetitive and I found that the references in [2](https://guides.github.com/features/mastering-markdown/) and [3](https://help.github.com/articles/basic-writing-and-formatting-syntax/) below cover much of the information I required for this project.
+
 ## Use of Github
 
 ## Double check that use of data is licensed, referenced
