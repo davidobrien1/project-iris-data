@@ -61,10 +61,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **2 - Investigation of the Iris data set**
 - [x] Download the Iris data set
 - [ ] Summary Statistics
-  - [ ] Max. value of each column
-  - [ ] Min. value of each column
-  - [ ] Mean value of each column
-  - [ ] Median of each column
+  - [x] Max. value of each column
+  - [x] Min. value of each column
+  - [x] Mean value of each column
+  - [x] Median of each column
   - [ ] Current spread within the data
   - [ ] Standard deviations
   - [ ] Histogram of different columns 

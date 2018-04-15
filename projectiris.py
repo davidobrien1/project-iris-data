@@ -58,3 +58,5 @@ print("Median Sepal Length = ", medianfirstcol)
 print("Median Sepal Width = ", mediansecondcol) 
 print("Median Petal Length = ", medianthirdcol)
 print("Median Sepal Width = ", medianfourthcol)
+
+# Find the median value of each column
