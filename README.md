@@ -9,43 +9,14 @@
 
 ### Summary Statistics of the Data Set
 
-**Minimum Values**
-Min. Sepal Length =  4.3
-
-Min. Sepal Width =  2.0
-
-Min. Petal Length =  1.0
-
-Min. Petal Width =  0.1
-
-**Maximum Values**
-Max. Sepal Length =  7.9
-
-Max. Sepal Width =  4.4
-
-Max. Petal Length =  6.9
-
-Max. Petal Width =  2.5
-
-**Mean Values**
-Mean Sepal Length =  5.84333333333
-
-Mean Sepal Width =  3.054
-
-Mean Petal Length =  3.75866666667
-
-Mean Petal Width =  1.19866666667
-
-**Median Values**
-Median Sepal Length =  5.8
-
-Median Sepal Width =  3.0
-
-Median Petal Length =  4.35
-
-Median Petal Width =  1.3
+Description | Sepal Length | Sepal Width | Petal Length | Petal Width
+Minimum Value | 4.3 | 2.0 | 1.0 | 0.1
+Maximum Value | 7.9 | 4.4 | 6.9 | 2.5
+Mean Value | 5.843 | 3.054 | 3.759 | 1.199
+Median Value | 5.8 | 3.0 | 4.35 | 1.3
 
 **Histograms**
+
 ![Histogram of Sepal Length](https://github.com/davidobrien1/project-iris-data/blob/master/Images/1%20-%20Histogram-Sepal%20Length.png)
 
 ![Histogram of Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/2%20-%20Histogram-Sepal%20Width.png)
