@@ -46,7 +46,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [ ] Why is this data talked about so much when it comes to data analytics
 
 **2 - Investigation of the Iris data set**
-- [ ] Download the Iris data set
+- [x] Download the Iris data set
 - [ ] Summary Statistics
   - [ ] Max. value of each column
   - [ ] Min. value of each column
@@ -80,7 +80,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [ ] Item 3
 
 **8 - Creating the Readme file**
-- [ ] Discuss how the Readme file was created
+- [x] Discuss how the Readme file was created
 
 **9 - Use of Github**
 - [ ] Item 1
