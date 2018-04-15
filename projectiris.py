@@ -11,15 +11,15 @@ data = numpy.genfromtxt('data/iris.csv', delimiter=',')   # https://stackoverflo
 # Find the minimum value of each column
 
 firstcol = data[:,0]      # https://stackoverflow.com/questions/3518778/how-to-read-csv-into-record-array-in-numpy - this lists all numbers in the first column of data
-meanfirstcol = numpy.min(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html - used this link to find mean and changed to min to get minimum value
-meansecondcol = numpy.min(data[:,1])
-meanthirdcol = numpy.min(data[:,2])
-meanfourthcol = numpy.min(data[:,3])
+minfirstcol = numpy.min(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html - used this link to find mean and changed to min to get minimum value
+minsecondcol = numpy.min(data[:,1])
+minthirdcol = numpy.min(data[:,2])
+minfourthcol = numpy.min(data[:,3])
 
-print("Min. Sepal Length = ", meanfirstcol)
-print("Min. Sepal Width = ", meansecondcol) 
-print("Min. Petal Length = ", meanthirdcol)
-print("Min. Sepal Width = ", meanfourthcol)
+print("Min. Sepal Length = ", minfirstcol)
+print("Min. Sepal Width = ", minsecondcol) 
+print("Min. Petal Length = ", minthirdcol)
+print("Min. Sepal Width = ", minfourthcol)
 
 
 
@@ -27,8 +27,22 @@ print("Min. Sepal Width = ", meanfourthcol)
 
 # Find the maximum value of each column
 
+maxfirstcol = numpy.max(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html - used this link to find mean and changed to max to get maximum value
+maxsecondcol = numpy.max(data[:,1])
+maxthirdcol = numpy.max(data[:,2])
+maxfourthcol = numpy.max(data[:,3])
+
+print("Max. Sepal Length = ", maxfirstcol)
+print("Max. Sepal Width = ", maxsecondcol) 
+print("Max. Petal Length = ", maxthirdcol)
+print("Max. Sepal Width = ", maxfourthcol)
+
+
+
+
 
 # Find the mean value of each column
+
 
 
 
