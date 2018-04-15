@@ -1,19 +1,26 @@
 # David O'Brien 15-04-18
 
-# Find the maximum value of each row
-with open("data/iris.csv") as f:  # we are opening the file in this line. "as f" means we have called this file f from now on
-  for line in f:                  # looping through the lines in the file
-    line = line.split(',')
-    print (max(line[0], line[1], line[2], line[3]))   # this prints the max value of each line
+
+import numpy
+
+# read data file into array.
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')   # https://stackoverflow.com/questions/3518778/how-to-read-csv-into-record-array-in-numpy
 
 
- 
+# Find the minimum value of each column
 
-# Find the minimum value of each row
-with open("data/iris.csv") as f:  # we are opening the file in this line. "as f" means we have called this file f from now on
-  for line in f:                  # looping through the lines in the file
-    line = line.split(',')        # here, i split the line before the print function
-    print (min(line[0], line[1], line[2], line[3]))   # this prints the min value of each line
+firstcol = data[:,0]      # https://stackoverflow.com/questions/3518778/how-to-read-csv-into-record-array-in-numpy - this lists all numbers in the first column of data
+meanfirstcol = numpy.min(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html - used this link to find mean and changed to min to get minimum value
+meansecondcol = numpy.min(data[:,1])
+meanthirdcol = numpy.min(data[:,2])
+meanfourthcol = numpy.min(data[:,3])
+print(meanfirstcol)
+print(meansecondcol)
+print(meanthirdcol)
+print(meanfourthcol) 
+
+# Find the maximum value of each column
 
 
 # Find the mean value of each column
