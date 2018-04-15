@@ -1,12 +1,14 @@
 # David O'Brien 15-04-18
+# Project Iris Data Analysis
 
+
+#import the numpy package
 
 import numpy
 
 # read data file into array.
 
 data = numpy.genfromtxt('data/iris.csv', delimiter=',')   # https://stackoverflow.com/questions/3518778/how-to-read-csv-into-record-array-in-numpy
-
 
 # Find the minimum value of each column
 
@@ -21,10 +23,6 @@ print("Min. Sepal Width = ", minsecondcol)
 print("Min. Petal Length = ", minthirdcol)
 print("Min. Sepal Width = ", minfourthcol)
 
-
-
-
-
 # Find the maximum value of each column
 
 maxfirstcol = numpy.max(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html - used this link to find mean and changed to max to get maximum value
@@ -37,13 +35,16 @@ print("Max. Sepal Width = ", maxsecondcol)
 print("Max. Petal Length = ", maxthirdcol)
 print("Max. Sepal Width = ", maxfourthcol)
 
-
-
-
-
 # Find the mean value of each column
 
+meanfirstcol = numpy.mean(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html - used this link to find mean
+meansecondcol = numpy.mean(data[:,1])
+meanthirdcol = numpy.mean(data[:,2])
+meanfourthcol = numpy.mean(data[:,3])
 
-
+print("Mean Sepal Length = ", meanfirstcol)
+print("Mean Sepal Width = ", meansecondcol) 
+print("Mean Petal Length = ", meanthirdcol)
+print("Mean Sepal Width = ", meanfourthcol)
 
 # Find the median value of each column
