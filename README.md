@@ -35,6 +35,8 @@ Median Petal Width =  1.3
 
 ![Histogram of Petal Length](https://github.com/davidobrien1/project-iris-data/blob/master/Images/3%20-%20Histogram%20-%20Petal%20Length.png)
 
+![Histogram of Petal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/4%20-%20Histogram%20-%20Petal%20Width.png)
+
 
 **Data Files**
 
