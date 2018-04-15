@@ -10,6 +10,7 @@
 ### Summary Statistics of the Data Set
 
 Description | Sepal Length | Sepal Width | Petal Length | Petal Width
+----------- | ------------ | ----------- | ------------ | ------------
 Minimum Value | 4.3 | 2.0 | 1.0 | 0.1
 Maximum Value | 7.9 | 4.4 | 6.9 | 2.5
 Mean Value | 5.843 | 3.054 | 3.759 | 1.199
