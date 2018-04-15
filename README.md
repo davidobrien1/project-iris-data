@@ -37,7 +37,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 8 - https://docs.python.org/3/tutorial/
 
-9 - 
+9 - http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+
+10 - https://stackoverflow.com/questions/35329573/finding-max-value-in-a-column-of-csv-file-python
+
 
 
 **-------------------------------------------------------------------------------------------**
