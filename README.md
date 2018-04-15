@@ -11,7 +11,7 @@
 
 ## Data Files
 
-Note that the Fisher's Iris data file is located [here](https://github.com/davidobrien1/Programming-and-Scripting-Exercises/tree/master/Data)
+Note that the Fisher's Iris data file is located [here](https://github.com/davidobrien1/project-iris-data/tree/master/Data)
 
 **Creating the Readme file**
 
