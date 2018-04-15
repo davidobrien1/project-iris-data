@@ -85,7 +85,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [x] Median of each column
   - [ ] Current spread within the data
   - [ ] Standard deviations
-  - [ ] Histogram of different columns 
+  - [x] Histogram of different columns 
 
 **3 - Other analyses of the Iris data set**
 - [ ] Example 1
@@ -93,9 +93,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [ ] Example 3
 
 **4 - Write a summary of the investigations including tables and graphs**
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
+- [x] Table of summary stats
+- [x] Histograms of individual columns
+- [ ] Scatter plots of individual columns
+- [ ] Scatter plots of multiple columns
 
 **5 - Update Project Plan as research progresses and additional information becomes apparent**
 - [ ] Consider any new information learned as part of the project plan
@@ -107,7 +108,6 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 **7 - Use of Python libraries and other modules**
 - [ ] Matplotlib
-- [ ] Pyplot
 - [ ] Numpy
 
 **8 - Creating the Readme file**
