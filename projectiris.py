@@ -15,10 +15,15 @@ meanfirstcol = numpy.min(data[:,0]) # https://docs.scipy.org/doc/numpy/reference
 meansecondcol = numpy.min(data[:,1])
 meanthirdcol = numpy.min(data[:,2])
 meanfourthcol = numpy.min(data[:,3])
-print(meanfirstcol)
-print(meansecondcol)
-print(meanthirdcol)
-print(meanfourthcol) 
+
+print("Min. Sepal Length = ", meanfirstcol)
+print("Min. Sepal Width = ", meansecondcol) 
+print("Min. Petal Length = ", meanthirdcol)
+print("Min. Sepal Width = ", meanfourthcol)
+
+
+
+
 
 # Find the maximum value of each column
 
