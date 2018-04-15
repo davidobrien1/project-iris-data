@@ -119,8 +119,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [ ] Consider any new information learned as part of the project plan
 
 **6 - How to run the Python code and what it does**
-- [ ] Item 1
-- [ ] Item 2
+- [x] pihist.py
+- [x] projectiris.py
 - [ ] Item 3
 
 **7 - Use of Python libraries and other modules**
