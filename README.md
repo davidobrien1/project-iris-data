@@ -27,6 +27,29 @@ Median Value | 5.8 | 3.0 | 4.35 | 1.3
 ![Histogram of Petal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/4%20-%20Histogram%20-%20Petal%20Width.png)
 
 
+### How to run the Python Code and what it does
+
+To run any of the files below in python, type "filename.py" in the integrated terminal
+
+This can also be run in ipython by going to the directory of the file and typing "run filename.py"
+
+CTRL+Shift+b will also run this file in python provided you have created the "tasks.json" as described in previous videos.  See image below for this:
+
+![Image of .json script](https://octodex.github.com/images/yaktocat.png)
+
+
+
+**projectiris.py**
+
+The [projectiris.py](https://github.com/davidobrien1/project-iris-data/blob/master/projectiris.py) file uses the numpy package to calculate the different summary values in the summary table above.
+
+
+**pihist.py**
+
+
+
+
+
 ### Data Files
 
 Note that the Fisher's Iris data file is located [here](https://github.com/davidobrien1/project-iris-data/tree/master/Data)
