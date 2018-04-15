@@ -21,7 +21,7 @@ minfourthcol = numpy.min(data[:,3])
 print("Min. Sepal Length = ", minfirstcol)
 print("Min. Sepal Width = ", minsecondcol) 
 print("Min. Petal Length = ", minthirdcol)
-print("Min. Sepal Width = ", minfourthcol)
+print("Min. Petal Width = ", minfourthcol)
 
 # Find the maximum value of each column
 
@@ -33,7 +33,7 @@ maxfourthcol = numpy.max(data[:,3])
 print("Max. Sepal Length = ", maxfirstcol)
 print("Max. Sepal Width = ", maxsecondcol) 
 print("Max. Petal Length = ", maxthirdcol)
-print("Max. Sepal Width = ", maxfourthcol)
+print("Max. Petal Width = ", maxfourthcol)
 
 # Find the mean value of each column
 
@@ -45,7 +45,7 @@ meanfourthcol = numpy.mean(data[:,3])
 print("Mean Sepal Length = ", meanfirstcol)
 print("Mean Sepal Width = ", meansecondcol) 
 print("Mean Petal Length = ", meanthirdcol)
-print("Mean Sepal Width = ", meanfourthcol)
+print("Mean Petal Width = ", meanfourthcol)
 
 # Find the median value of each column
 
@@ -57,6 +57,6 @@ medianfourthcol = numpy.median(data[:,3])
 print("Median Sepal Length = ", medianfirstcol)
 print("Median Sepal Width = ", mediansecondcol) 
 print("Median Petal Length = ", medianthirdcol)
-print("Median Sepal Width = ", medianfourthcol)
+print("Median Petal Width = ", medianfourthcol)
 
 # Find the median value of each column

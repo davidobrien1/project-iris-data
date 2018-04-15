@@ -7,9 +7,36 @@
 
 **Fisher's Irish Data Set Description**
 
+**Summary Statistics of the Data Set**
+
+Min. Sepal Length =  4.3
+Min. Sepal Width =  2.0
+Min. Petal Length =  1.0
+Min. Petal Width =  0.1
+
+Max. Sepal Length =  7.9
+Max. Sepal Width =  4.4
+Max. Petal Length =  6.9
+Max. Petal Width =  2.5
+
+Mean Sepal Length =  5.84333333333
+Mean Sepal Width =  3.054
+Mean Petal Length =  3.75866666667
+Mean Petal Width =  1.19866666667
+
+Median Sepal Length =  5.8
+Median Sepal Width =  3.0
+Median Petal Length =  4.35
+Median Petal Width =  1.3
+
+![Histogram of Sepal Length](https://github.com/davidobrien1/project-iris-data/blob/master/Images/1%20-%20Histogram-Sepal%20Length.png)
+
+![Histogram of Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/2%20-%20Histogram-Sepal%20Width.png)
+
+![Histogram of Petal Length](https://github.com/davidobrien1/project-iris-data/blob/master/Images/3%20-%20Histogram%20-%20Petal%20Length.png)
 
 
-## Data Files
+**Data Files**
 
 Note that the Fisher's Iris data file is located [here](https://github.com/davidobrien1/project-iris-data/tree/master/Data)
 
