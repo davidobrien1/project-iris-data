@@ -33,6 +33,12 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 6 - https://gist.github.com/curran/a08a1080b88344b0c8a7
 
+7 - https://matplotlib.org/faq/usage_faq.html
+
+8 - https://docs.python.org/3/tutorial/
+
+9 - 
+
 
 **-------------------------------------------------------------------------------------------**
 
@@ -75,16 +81,16 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [ ] Item 3
 
 **7 - Use of Python libraries and other modules**
-- [ ] Item 1
-- [ ] Item 2
+- [ ] Matplotlib
+- [ ] Pyplot
 - [ ] Item 3
 
 **8 - Creating the Readme file**
 - [x] Discuss how the Readme file was created
 
 **9 - Use of Github**
-- [ ] Item 1
-- [ ] Item 2
+- [ ] Github
+- [ ] iPython
 - [ ] Item 3
 
 **10 - References**
