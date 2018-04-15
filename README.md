@@ -1,11 +1,11 @@
-![Image of GMIT logo](https://3m20wtf9vk-flywheel.netdna-ssl.com/wp-content/uploads/2011/12/gmitlogo.jpg)
-
 # Programming and Scripting
 
 ## Semester 1 Project 2018 - Fisher's Iris Data Set
 
 ### Student:    David O'Brien
 ### Student ID: G00364766
+
+**Fisher's Irish Data Set Description**
 
 
 
@@ -15,6 +15,8 @@ As the first part of this project involved creating the project plan within the 
 
 **References**
 
+Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis
+
 1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
 2 - https://guides.github.com/features/mastering-markdown/ - used for formatting Readme file
@@ -22,6 +24,11 @@ As the first part of this project involved creating the project plan within the 
 3 - https://help.github.com/articles/basic-writing-and-formatting-syntax/ - used for formatting Readme file
 
 4 - https://en.wikipedia.org/wiki/Iris_flower_data_set
+
+5 - https://archive.ics.uci.edu/ml/datasets/iris
+
+6 - https://gist.github.com/curran/a08a1080b88344b0c8a7
+
 
 **-------------------------------------------------------------------------------------------**
 
