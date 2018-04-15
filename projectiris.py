@@ -48,3 +48,13 @@ print("Mean Petal Length = ", meanthirdcol)
 print("Mean Sepal Width = ", meanfourthcol)
 
 # Find the median value of each column
+
+medianfirstcol = numpy.median(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.median.html - used this link to find median
+mediansecondcol = numpy.median(data[:,1])
+medianthirdcol = numpy.median(data[:,2])
+medianfourthcol = numpy.median(data[:,3])
+
+print("Median Sepal Length = ", medianfirstcol)
+print("Median Sepal Width = ", mediansecondcol) 
+print("Median Petal Length = ", medianthirdcol)
+print("Median Sepal Width = ", medianfourthcol)
