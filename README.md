@@ -41,6 +41,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 10 - https://stackoverflow.com/questions/35329573/finding-max-value-in-a-column-of-csv-file-python
 
+11 - https://stackoverflow.com/questions/3518778/how-to-read-csv-into-record-array-in-numpy
+
+12 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html
+
 
 
 **-------------------------------------------------------------------------------------------**
@@ -86,7 +90,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **7 - Use of Python libraries and other modules**
 - [ ] Matplotlib
 - [ ] Pyplot
-- [ ] Item 3
+- [ ] Numpy
 
 **8 - Creating the Readme file**
 - [x] Discuss how the Readme file was created
