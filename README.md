@@ -103,7 +103,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [x] Mean value of each column
   - [x] Median of each column
   - [ ] Current spread within the data
-  - [ ] Standard deviations
+  - [x] Standard deviations
   - [x] Histogram of different columns 
 
 **3 - Other analyses of the Iris data set**
