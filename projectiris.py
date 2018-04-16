@@ -59,4 +59,14 @@ print("Median Sepal Width = ", mediansecondcol)
 print("Median Petal Length = ", medianthirdcol)
 print("Median Petal Width = ", medianfourthcol)
 
-# Find the median value of each column
+# Find the standard deviation of each column
+
+stdfirstcol = numpy.std(data[:,0]) # https://docs.scipy.org/doc/numpy/reference/generated/numpy.median.html - used this link to find median
+stdsecondcol = numpy.std(data[:,1])
+stdthirdcol = numpy.std(data[:,2])
+stdfourthcol = numpy.std(data[:,3])
+
+print("Standard Deviation Sepal Length = ", stdfirstcol)
+print("Standard Deviation Width = ", stdsecondcol) 
+print("Standard Deviation Length = ", stdthirdcol)
+print("Standard Deviation Width = ", stdfourthcol)
