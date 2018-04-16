@@ -80,6 +80,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 12 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html
 
+13 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html
 
 
 **-------------------------------------------------------------------------------------------**
