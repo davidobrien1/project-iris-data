@@ -17,5 +17,5 @@ Petalwidth = data[:,3]
 #import the matplotlib package
 
 import matplotlib.pyplot as pl
-pl.scatter(sepallength, sepalwidth)
+pl.scatter(sepallength, sepalwidth, color='r')
 pl.show()
