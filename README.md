@@ -83,6 +83,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 13 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html
 
+14 - https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+
 
 **-------------------------------------------------------------------------------------------**
 
