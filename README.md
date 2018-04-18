@@ -45,6 +45,10 @@ The [projectiris.py](https://github.com/davidobrien1/project-iris-data/blob/mast
 
 The [pihist.py](https://github.com/davidobrien1/project-iris-data/blob/master/pihist.py) file uses the matplotlib package to create different graphs of the data.
 
+**scatterplot.py**
+
+The [scatterplot.py](https://github.com/davidobrien1/project-iris-data/blob/master/scatterplot.py) file uses the matplotlib package to create different graphs of the data.
+
 ### Data Files
 
 Note that the Fisher's Iris data file is located [here](https://github.com/davidobrien1/project-iris-data/tree/master/Data)
@@ -55,7 +59,7 @@ As the first part of this project involved creating the project plan within the 
 
 ### References
 
-Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis
+Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example
 
 1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
@@ -84,6 +88,9 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 13 - https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html
 
 14 - https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+
+15 - https://pythonprogramming.net/loading-file-data-matplotlib-tutorial/
+
 
 
 **-------------------------------------------------------------------------------------------**
@@ -125,7 +132,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **6 - How to run the Python code and what it does**
 - [x] pihist.py
 - [x] projectiris.py
-- [ ] Item 3
+- [x] scatterplot.py
 
 **7 - Use of Python libraries and other modules**
 - [ ] Matplotlib
