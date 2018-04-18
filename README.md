@@ -91,6 +91,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 15 - https://pythonprogramming.net/loading-file-data-matplotlib-tutorial/
 
+16 - http://benalexkeen.com/scatter-charts-in-matplotlib/
+
+17 - https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation
+
 
 
 **-------------------------------------------------------------------------------------------**
