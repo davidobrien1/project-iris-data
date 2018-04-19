@@ -33,7 +33,7 @@ pl.show()
 
 # create scatter plot of sepal length vs sepal width for all specie types showing the specie types in different colours
 
-colour = ""
+colour = ""                   # http://www.pybloggers.com/2015/09/my-first-time-using-matplotlib/
 for line in species:                      
   if line == "Iris-setosa":
     colour = "red"
