@@ -36,5 +36,14 @@ pl.show()
 pl.scatter(sepallength, sepalwidth, c= ["red", "green", "blue"])   #https://stackoverflow.com/questions/33790909/plotting-points-with-different-colors-by-name-in-matplotlib
 pl.show()
 
+# determine color
+flower = species[i].decode("utf-8")
+color = ""
+if flower == "Iris-setosa":
+	color = "red"
+elif flower == "Iris-versicolor":
+	color = "green"
+elif flower == "Iris-virginica":
+	color = "blue"
 
-
+plt.scatter(x, y, s=scale, c=color, alpha=1, edgecolor="none")  #http://www.pybloggers.com/2015/09/my-first-time-using-matplotlib/
