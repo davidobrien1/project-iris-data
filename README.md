@@ -27,6 +27,19 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 ![Histogram of Petal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/4%20-%20Histogram%20-%20Petal%20Width.png)
 
+**Scatter Plots**
+
+![Scatter Plot of Sepal Length vs Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/5%20-%20Scatter%20-%20Sepal%20Lenth%20vs%20Sepal%20Width.png)
+
+![Scatter Plot of Petal Length vs Petal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/6%20-%20Scatter%20-%20Petal%20Lenth%20vs%20Petal%20Width.png)
+
+
+
+
+### Use of Python libraries and other modules
+
+**Numpy**
+
 ### How to run the Python Code and what it does
 
 To run any of the files below in python, type "filename.py" in the integrated terminal
