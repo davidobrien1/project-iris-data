@@ -13,6 +13,7 @@ sepallength = data[:,0]      # https://stackoverflow.com/questions/3518778/how-t
 sepalwidth = data[:,1]
 petallength = data[:,2]
 petalwidth = data[:,3]
+species = data[:,4]
 
 
 
@@ -29,4 +30,11 @@ pl.show()
 
 pl.scatter(petallength, petalwidth)
 pl.show()
+
+# create scatter plot of sepal length vs sepal width for all specie types showing the specie types in different colours
+
+pl.scatter(sepallength, sepalwidth, c= ["red", "green", "blue"])   #https://stackoverflow.com/questions/33790909/plotting-points-with-different-colors-by-name-in-matplotlib
+pl.show()
+
+
 
