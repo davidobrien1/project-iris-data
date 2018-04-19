@@ -135,6 +135,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [ ] Current spread within the data
   - [x] Standard deviations
   - [x] Histogram of different columns 
+  - [ ] Try to change the formatting of the graphs, include formatting in the code rather than applying in the image afterward
 
 **3 - Other analyses of the Iris data set**
 - [ ] Example 1
