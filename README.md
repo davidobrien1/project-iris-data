@@ -95,6 +95,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 17 - https://www.kaggle.com/abhishekkrg/python-iris-data-visualization-and-explanation
 
+18 - http://www.learn4master.com/machine-learning/visualize-iris-dataset-using-python
+
+19 - https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.genfromtxt.html
+
 
 
 **-------------------------------------------------------------------------------------------**

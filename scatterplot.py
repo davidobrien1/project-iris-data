@@ -6,27 +6,13 @@ import numpy
 
 # read data file into array.
 
-data = numpy.genfromtxt('data/iris.csv', delimiter=',')   # https://stackoverflow.com/questions/3518778/how-to-read-csv-into-record-array-in-numpy
+sepallength, sepalwidth, petallength, petalwidth, species = numpy.genfromtxt('data/iris.csv', delimiter=',',usecols=0,1,2,3,4)   # https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.genfromtxt.html
 
-sepallength = data[:,0]
-sepalwidth = data[:,1]
-petallength = data[:,2]
-petalwidth = data[:,3]
-species = data[:,4]
-
-#import the matplotlib package
+# import the matplotlib.pyplot package
 
 import matplotlib.pyplot as pl
 
-pl.scatter(sepallength, sepalwidth, color='r')
+# create scatter plot of sepal length vs sepal width for all specie types
 
-pl.show()
+pl.scatter(sepallength, sepalwidth)
 
-#
-
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-iris = pd.read_csv("data/iris.csv")
-sns.jointplot(x="5.1", y="3.5", data=iris, size=5)
-sns.FacetGrid(iris, hue="Iris-setosa", size=5).map(plt.scatter, "5.1", "3.5").add_legend()
