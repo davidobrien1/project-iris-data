@@ -72,7 +72,7 @@ As the first part of this project involved creating the project plan within the 
 
 ### References
 
-Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example
+Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example, sort csv columns into arrays python, matplotlib multiple array scatter plot, plot data points in different colors matplotlib, matplotlib scatter color by value
 
 1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
@@ -111,6 +111,11 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 18 - http://www.learn4master.com/machine-learning/visualize-iris-dataset-using-python
 
 19 - https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.genfromtxt.html
+
+20 - https://matplotlib.org/2.0.0/examples/index.html
+
+21 - https://stackoverflow.com/questions/33790909/plotting-points-with-different-colors-by-name-in-matplotlib
+
 
 
 
