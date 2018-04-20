@@ -34,5 +34,12 @@ pl.show()
 # create scatter plot of sepal length vs sepal width for all specie types showing the specie types in different colours
 
 #setting colors for each flower type
-colors = {'Iris-setosa': 'r', 'Iris-versicolor': 'g', 'Iris-virginica': 'b'}
 
+import pandas as pd
+
+df = pd.DataFrame(dict(A=sepallength, B=sepalwidth, C=species))
+
+colors = {'Iris-versicolor': 'red', 'Iris-setosa': 'green','Iris-virginica': 'blue'}
+
+pl.scatter(df.A, df.B, c=df.C.map(colors))
+pl.show()
