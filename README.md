@@ -5,7 +5,9 @@
 ### Student:    David O'Brien
 ### Student ID: G00364766
 
-### Fisher's Irish Data Set Description
+### Fisher's Iris Data Set Description
+
+Fisher's Iris Data set is a multivariate data set introduced by the British statistician Ronald Fisher [4](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
 ### Summary Statistics of the Data Set
 
@@ -143,10 +145,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [x] Min. value of each column
   - [x] Mean value of each column
   - [x] Median of each column
-  - [ ] Current spread within the data
   - [x] Standard deviations
   - [x] Histogram of different columns 
-  - [ ] Try to change the formatting of the graphs, include formatting in the code rather than applying in the image afterward
+  - [x] Try to change the formatting of the graphs, include formatting in the code rather than applying in the image afterward
+  - [ ] Try to create matrix of graphs 
 
 **3 - Other analyses of the Iris data set**
 - [ ] Example 1
@@ -156,8 +158,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **4 - Write a summary of the investigations including tables and graphs**
 - [x] Table of summary stats
 - [x] Histograms of individual columns
-- [ ] Scatter plots of individual columns
-- [ ] Scatter plots of multiple columns
+- [x] Scatter plots of multiple columns
+- [x] Scatter plots of multiple columns with coloured data points
 
 **5 - Update Project Plan as research progresses and additional information becomes apparent**
 - [ ] Consider any new information learned as part of the project plan
@@ -181,8 +183,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 **10 - References**
 - [ ] Double check that use of data is licensed and referenced
-- [ ] Item 2
-- [ ] Item 3
+
 
 **11 - Review**
 - [ ] Review all project items for any errors and improvements
