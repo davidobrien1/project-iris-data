@@ -161,7 +161,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [x] Standard deviations
   - [x] Histogram of different columns 
   - [x] Try to change the formatting of the graphs, include formatting in the code rather than applying in the image afterward
-  - [ ] Try to create matrix of graphs 
+  - [x] Try to create matrix of graphs 
 
 **3 - Other analyses of the Iris data set**
 - [ ] Example 1
