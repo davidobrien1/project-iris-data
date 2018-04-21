@@ -43,5 +43,8 @@ pl.show()
 color_dict = { 'Iris-setosa':'red', 'Iris-versicolor':'blue', 'Iris-virginica':'green'}
 
 pl.scatter(sepallength, sepalwidth, color=[ color_dict[i] for i in species ] )
+pl.title('Scatter Plot of Sepal Length Vs. Sepal Width ')      # Went to the following link to fin the '.title' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
+pl.xlabel('Sepal Length') # Went to the following link to fin the '.xlabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
+pl.ylabel('Sepal Width')  # Went to the following link to fin the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 
 pl.show()
