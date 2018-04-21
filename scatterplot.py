@@ -55,5 +55,10 @@ pl.scatter(sepallength, sepalwidth, color=[ color[i] for i in species ] )    # F
 pl.title('Scatter Plot of Sepal Length Vs. Sepal Width ')      # Went to the following link to find the '.title' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.xlabel('Sepal Length') # Went to the following link to find the '.xlabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.ylabel('Sepal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
-pl.figlegend(('Iris-setosa':'red', 'Iris-versicolor':'blue', 'Iris-virginica':'green'),scatterpoints=1,loc='lower left',ncol=3,fontsize=8)
+pl.show()   # This shows the scatter last plot created
+
+pl.scatter(petallength, petalwidth, color=[ color[i] for i in species ] )    # Found code at this link that helped created colour the data points per species: https://stackoverflow.com/questions/27318906/python-scatter-plot-with-colors-corresponding-to-strings
+pl.title('Scatter Plot of Petal Length Vs. Petal Width ')      # Went to the following link to find the '.title' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
+pl.xlabel('Petal Length') # Went to the following link to find the '.xlabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
+pl.ylabel('Petal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.show()   # This shows the scatter last plot created
