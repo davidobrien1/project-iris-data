@@ -1,5 +1,9 @@
 # David O'Brien 2018-04-17
 
+#import the matplotlib package
+
+import matplotlib.pyplot as pl
+
 #import the numpy package
 
 import numpy
@@ -62,3 +66,5 @@ pl.title('Scatter Plot of Petal Length Vs. Petal Width ')      # Went to the fol
 pl.xlabel('Petal Length') # Went to the following link to find the '.xlabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.ylabel('Petal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.show()   # This shows the scatter last plot created
+
+
