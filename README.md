@@ -39,10 +39,16 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 ![Colour Scatter Plot of Sepal Length vs Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/8%20-%20Colour%20Scatter%20-%20Petal%20Length%20vs%20Petal%20Width.png)
 
+**Matrix Plot**
+
+![Matrix Plot of all variables](https://github.com/davidobrien1/project-iris-data/blob/master/Images/9%20-%20Matrix%20Plot.png)
+
 
 ### Use of Python libraries and other modules
 
 **Numpy**
+
+**Matplotlib.pyplot**
 
 ### How to run the Python Code and what it does
 
@@ -65,6 +71,10 @@ The [pihist.py](https://github.com/davidobrien1/project-iris-data/blob/master/pi
 **scatterplot.py**
 
 The [scatterplot.py](https://github.com/davidobrien1/project-iris-data/blob/master/scatterplot.py) file uses the matplotlib package to create different graphs of the data.
+
+**matrix.py**
+
+The [matrix.py](https://github.com/davidobrien1/project-iris-data/blob/master/matrix.py) file uses the seaborn package to create a matrix of plots of the iris data.
 
 ### Data Files
 
@@ -124,6 +134,9 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 23 - https://matplotlib.org/api/pyplot_api.html
 
+24 - https://stackoverflow.com/questions/30336324/seaborn-load-dataset/30337377
+
+25 - https://github.com/mwaskom/seaborn-data
 
 
 
