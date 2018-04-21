@@ -33,7 +33,9 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 ![Scatter Plot of Petal Length vs Petal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/6%20-%20Scatter%20-%20Petal%20Lenth%20vs%20Petal%20Width.png)
 
+![Colour Scatter Plot of Sepal Length vs Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/7%20-%20Colour%20Scatter%20-%20Sepal%20Lenth%20vs%20Sepal%20Width.png)
 
+![Colour Scatter Plot of Sepal Length vs Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/8%20-%20Colour%20Scatter%20-%20Petal%20Length%20vs%20Petal%20Width.png)
 
 
 ### Use of Python libraries and other modules
@@ -115,6 +117,10 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 20 - https://matplotlib.org/2.0.0/examples/index.html
 
 21 - https://stackoverflow.com/questions/33790909/plotting-points-with-different-colors-by-name-in-matplotlib
+
+22 - https://stackoverflow.com/questions/27318906/python-scatter-plot-with-colors-corresponding-to-strings
+
+23 - https://matplotlib.org/api/pyplot_api.html
 
 
 
