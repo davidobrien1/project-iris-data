@@ -70,3 +70,11 @@ print("Standard Deviation Sepal Length = ", stdfirstcol)
 print("Standard Deviation Width = ", stdsecondcol) 
 print("Standard Deviation Length = ", stdthirdcol)
 print("Standard Deviation Width = ", stdfourthcol)
+
+
+# Use pandas to create a summary table of the data in the iris data set
+
+import pandas as pd
+ir = pd.DataFrame(data)
+print(ir.describe())
+
