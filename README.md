@@ -48,9 +48,15 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 **Numpy**
 
-NumPy is the fundamental package for scientific computing with Python [26](http://www.numpy.org/).  In this project, I used numpy.genfromtxt to read the data file into an array.  Using different parameters withing this function, I was able to load specific columns (usecols) and covert each one to the appropriate data type (dtype).  numpy.genfromtext is able to perform many other useful actions to data including; dealing with blank data, skipping headers and footers, skipping lines.
+NumPy is the fundamental package for scientific computing with Python [26](http://www.numpy.org/).  In this project, I used numpy.genfromtxt to read the data file into an array.  Using different parameters within this function, I was able to load specific columns (usecols) and convert each one to the appropriate data type (dtype).  numpy.genfromtext is able to perform many other useful actions to data including; dealing with blank data, skipping headers and footers, skipping lines.
 
-**Matplotlib.pyplot**
+**Matplotlib**
+
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms [27](https://matplotlib.org/).  In this project, I used matplotlib.pyplot to various types of graphs of the iris data set.  Using different parameters within this function, I was able to plot histograms (matplotlib.pyplot.hist), label the graph (matplotlib.pyplot.title/xlabel/ylabel) and show the graph (matplotlib.pyplot.show).  
+
+**Seaborn**
+
+
 
 ### How to run the Python Code and what it does
 
@@ -141,6 +147,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 25 - https://github.com/mwaskom/seaborn-data
 
 26 - http://www.numpy.org/
+
+27 - https://matplotlib.org/
 
 
 
