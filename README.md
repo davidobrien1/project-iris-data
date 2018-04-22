@@ -9,6 +9,10 @@
 
 Fisher's Iris Data set is a multivariate data set introduced by the British statistician Ronald Fisher [4](https://en.wikipedia.org/wiki/Iris_flower_data_set).  The data set contains 150 samples of three different species of the Iris flower.  These are Iris Setosa (50 no.), Iris Versicolor (50 no.) and Iris Virginica(50 no.).  The data set includes the sepal length, sepal width, petal length, petal width and class of flower.
 
+The paper written by Ronald Fisher shows how a technique called linear dircriminant analysis, could be accurately used to distinguish the three species from each other using only the sepal and petal measurements [32](https://www.youtube.com/watch?v=hd1W4CyPX58)
+
+It is widely used in data analytics as it is a relatively simple data set and there is a strong relationship between the measurements and species and various machine learning models can accurately predict the spcies given the measurements.
+
 ### Summary Statistics of the Data Set
 
 The table below shows some summary statistics of the Iris Data set.  This information was obtained by running the code in the file projectiris.py
@@ -184,6 +188,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 31 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
+32 - https://www.youtube.com/watch?v=hd1W4CyPX58
+
 
 
 **-------------------------------------------------------------------------------------------**
@@ -193,13 +199,13 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **1 - Researching the data set**
 - [ ] What investigating a data set entails
 - [ ] How can Python be used to do this?
-- [ ] What does the data contain?
-- [ ] The background surrounding it
-- [ ] Why is this data talked about so much when it comes to data analytics
+- [x] What does the data contain?
+- [x] The background surrounding it
+- [x] Why is this data talked about so much when it comes to data analytics
 
 **2 - Investigation of the Iris data set**
 - [x] Download the Iris data set
-- [ ] Summary Statistics
+- [x] Summary Statistics
   - [x] Max. value of each column
   - [x] Min. value of each column
   - [x] Mean value of each column
