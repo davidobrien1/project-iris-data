@@ -48,7 +48,7 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 **Numpy**
 
-NumPy is the fundamental package for scientific computing with Python ^[26](http://www.numpy.org/)^
+NumPy is the fundamental package for scientific computing with Python [^26^](http://www.numpy.org/)
 
 **Matplotlib.pyplot**
 
