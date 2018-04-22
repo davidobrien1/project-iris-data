@@ -1,9 +1,5 @@
 # David O'Brien 2018-04-17
 
-#import the matplotlib package
-
-import matplotlib.pyplot as pl
-
 #import the numpy package
 
 import numpy
@@ -51,7 +47,7 @@ pl.show()   # This shows the scatter last plot created
 
 # setting colors for each flower type
 
-color = { 'Iris-setosa':'red', 'Iris-versicolor':'blue', 'Iris-virginica':'green'}
+color = { 'Iris-setosa':'blue', 'Iris-versicolor':'green', 'Iris-virginica':'red'}
 
 # create scatter plot of sepal length vs sepal width for all specie types showing the specie types in different colours
 
@@ -61,10 +57,10 @@ pl.xlabel('Sepal Length') # Went to the following link to find the '.xlabel' par
 pl.ylabel('Sepal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.show()   # This shows the scatter last plot created
 
+# create scatter plot of petal length vs petal width for all specie types showing the specie types in different colours
+
 pl.scatter(petallength, petalwidth, color=[ color[i] for i in species ] )    # Found code at this link that helped created colour the data points per species: https://stackoverflow.com/questions/27318906/python-scatter-plot-with-colors-corresponding-to-strings
 pl.title('Scatter Plot of Petal Length Vs. Petal Width ')      # Went to the following link to find the '.title' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.xlabel('Petal Length') # Went to the following link to find the '.xlabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
-pl.ylabel('Petal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
+pl.ylabel('Sepal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.show()   # This shows the scatter last plot created
-
-
