@@ -65,13 +65,14 @@ pl.xlabel('Petal Length') # Went to the following link to find the '.xlabel' par
 pl.ylabel('Sepal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.show()   # This shows the scatter last plot created
 
-# create scatter plot of sepal length vs sepal width for all specie types showing the specie types in different colours
+# Add a best fit line to scatter plot of sepal length vs sepal width
+# Note that this is not the correct solution for the straight line best fit
 
 lineStart = sepallength.min()
 lineEnd = sepallength.max()
 
 pl.scatter(sepallength, sepalwidth, color=[ color[i] for i in species ] )    # Found code at this link that helped created colour the data points per species: https://stackoverflow.com/questions/27318906/python-scatter-plot-with-colors-corresponding-to-strings
-pl.plot([lineStart, lineEnd], [lineStart, lineEnd])
+pl.plot([lineStart, lineEnd], [lineStart, lineEnd])   # https://stackoverflow.com/questions/40516661/adding-line-to-scatter-plot-using-pythons-matplotlib
 pl.title('Scatter Plot of Sepal Length Vs. Sepal Width ')      # Went to the following link to find the '.title' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.xlabel('Sepal Length') # Went to the following link to find the '.xlabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
 pl.ylabel('Sepal Width')  # Went to the following link to find the '.ylabel' parameter to create a title for the scatter plot dhttps://matplotlib.org/api/pyplot_api.html
