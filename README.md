@@ -108,14 +108,15 @@ As the first part of this project involved creating the project plan within the 
 
 ### Other analyses of the Iris Data set
 
-**Ritvik Raj**
-
 The analysis of the Iris data set used in reference [30](https://guides.github.com/features/mastering-markdown/) by Ritvik Raj uses multiple modules for Python including sys, scipy, numpy, matplotlib, pandas, and scikit-learn.  The data set is loaded directly from the UCI machine learning repository as opposed to my method of downloading the file locally (except where i am creating the matrix plot using seaborn).
 
-The dataset summary includes additional information to my summary including the count and percentiles of the different types of data.  On further research, I learnt that the pandas.dataframe.describe library is able to provide this information.
+The dataset summary includes additional information to my summary including the count and percentiles of the different types of data.  On further research, I learnt that the pandas.dataframe.describe library is able to provide this information very easily and have therefore added this data to the summary table using the pandas library.
 
+Ritvik uses histograms and box plots to represent that data.
 
+The data is then split into two sets, one to train the model and the other as a validation set
 
+Different statistical methods are then used to find patterns between the variables in the dataset and the results from the algorithms are then compared.  
 
 ### References
 
