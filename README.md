@@ -259,8 +259,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [x] Discuss how the Readme file was created
 
 **9 - Use of other resources**
-- [ ] Github
-- [ ] iPython
+- [x] Github
 
 **10 - References**
 - [ ] Double check that use of data is licensed and referenced
