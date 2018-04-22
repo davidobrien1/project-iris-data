@@ -56,6 +56,7 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
 **Seaborn**
 
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics [28](https://seaborn.pydata.org/).  In this project, I used seaborn to matrix plot of the iris data set.  Using different parameters within this function, I was able to set the style (seaborn.set), load the data set from a github repoitory (seaborn.load_dataset) and plot pairwise relationships in the dataset (seaborn.pairplot).  Note that the code for this was taken directly from https://seaborn.pydata.org/examples/scatterplot_matrix.html.  I found it very useful that this module was able to create such a detailed graph with little coding. 
 
 
 ### How to run the Python Code and what it does
@@ -149,6 +150,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 26 - http://www.numpy.org/
 
 27 - https://matplotlib.org/
+
+28 - https://seaborn.pydata.org/
 
 
 
