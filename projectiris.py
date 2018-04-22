@@ -74,7 +74,7 @@ print("Standard Deviation Width = ", stdfourthcol)
 
 # Use pandas to create a summary table of the data in the iris data set
 
-import pandas as pd
-ir = pd.DataFrame(data)
-print(ir.describe())
+import pandas as pd   #importing pandas
+ir = pd.DataFrame(data) # https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
+print(ir.describe())    # using the pandas.DataFrame.describe to create table of data set https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html 
 

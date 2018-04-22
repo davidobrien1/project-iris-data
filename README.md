@@ -15,11 +15,16 @@ The table below shows some summary statistics of the Iris Data set.  This inform
 
 Description | Sepal Length | Sepal Width | Petal Length | Petal Width
 ----------- | ------------ | ----------- | ------------ | ------------
+Count | 150 | 150 | 150 | 150
 Minimum Value | 4.3 | 2.0 | 1.0 | 0.1
 Maximum Value | 7.9 | 4.4 | 6.9 | 2.5
 Mean Value | 5.843 | 3.054 | 3.759 | 1.199
 Median Value | 5.8 | 3.0 | 4.35 | 1.3
 Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
+25% | 5.1 | 2.8 | 1.6 | 0.3
+50% | 5.8 | 3.0 | 4.35 | 1.3
+75% | 6.4 | 3.3 | 5.1 | 1.8
+
 
 **Histograms**
 
@@ -175,6 +180,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 29 - https://seaborn.pydata.org/examples/scatterplot_matrix.html
 
 30 - https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
+
+31 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
 
 
