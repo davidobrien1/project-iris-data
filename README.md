@@ -206,13 +206,13 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [x] Median of each column
   - [x] Standard deviations
   - [x] Histogram of different columns 
+  - [x] Use pandas to create summary table of data
   - [x] Try to change the formatting of the graphs, include formatting in the code rather than applying in the image afterward
   - [x] Try to create matrix of graphs 
 
 **3 - Other analyses of the Iris data set**
-- [ ] [Ritvik Raj](https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/)
-- [ ] Example 2
-- [ ] Example 3
+- [x] [Ritvik Raj](https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/)
+
 
 **4 - Write a summary of the investigations including tables and graphs**
 - [x] Table of summary stats
@@ -236,7 +236,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **8 - Creating the Readme file**
 - [x] Discuss how the Readme file was created
 
-**9 - Use of Github**
+**9 - Use of other resources**
 - [ ] Github
 - [ ] iPython
 
