@@ -48,7 +48,7 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 **Numpy**
 
-NumPy is the fundamental package for scientific computing with Python [^26^](http://www.numpy.org/)
+NumPy is the fundamental package for scientific computing with Python [26](http://www.numpy.org/).  In this project, I used numpy.genfromtxt to read the data file into an array.  Using different parameters withing this function, I was able to load specific columns (usecols) and covert each one to the appropriate data type (dtype).  numpy.genfromtext is able to perform many other useful actions to data including; dealing with blank data, skipping headers and footers, skipping lines.
 
 **Matplotlib.pyplot**
 
