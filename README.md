@@ -48,6 +48,8 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 **Numpy**
 
+NumPy is the fundamental package for scientific computing with Python ^[26](http://www.numpy.org/)^
+
 **Matplotlib.pyplot**
 
 ### How to run the Python Code and what it does
@@ -138,6 +140,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 25 - https://github.com/mwaskom/seaborn-data
 
+26 - http://www.numpy.org/
+
 
 
 **-------------------------------------------------------------------------------------------**
@@ -185,6 +189,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **7 - Use of Python libraries and other modules**
 - [ ] Matplotlib
 - [ ] Numpy
+- [ ] Seaborn
 
 **8 - Creating the Readme file**
 - [x] Discuss how the Readme file was created
