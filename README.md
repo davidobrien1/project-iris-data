@@ -13,6 +13,16 @@ The paper written by Ronald Fisher shows how a technique called linear dircrimin
 
 It is widely used in data analytics as it is a relatively simple data set and there is a strong relationship between the measurements and species and various machine learning models can accurately predict the spcies given the measurements.
 
+### Investigating a Data Set
+
+Investigating a data set entails a number of things.  A starting point would be to list a number of questions that need to be answered.  These could lead to subsequent questions which would further drill down into the data set.  Having these questions prepared will provide a structure for the data analysis.  Being able to analyse the different subsets of the data will provide further insight if required.
+
+The data set must be accurate and you should be able to deal with any blank information or results that may skew any recommendations.  It must also contain enough information to enable useful data analysis results.
+
+The data set should be described, explaining what it contains, how the data was collected and any concerns you might have with the data.  Summary statistics of the data should be obtained. 
+
+The code used in this project uses different methods of python language to investigate the Iris data set. 
+
 ### Summary Statistics of the Data Set
 
 The table below shows some summary statistics of the Iris Data set.  This information was obtained by running the code in the file projectiris.py
@@ -122,6 +132,12 @@ The data is then split into two sets, one to train the model and the other as a 
 
 Different statistical methods are then used to find patterns between the variables in the dataset and the results from the algorithms are then compared.  
 
+### Github
+
+Github was used to create the repository for this project.  I find it was a very useful tool in tracking the history of the code used and it clearly shows how the code was developed.  I found it useful for confirming that the syntax being used in the readme file was correct.
+
+###
+
 ### References
 
 Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example, sort csv columns into arrays python, matplotlib multiple array scatter plot, plot data points in different colors matplotlib, matplotlib scatter color by value
@@ -197,8 +213,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 # Project Plan Check List
 
 **1 - Researching the data set**
-- [ ] What investigating a data set entails
-- [ ] How can Python be used to do this?
+- [x] What investigating a data set entails
+- [x] How can Python be used to do this?
 - [x] What does the data contain?
 - [x] The background surrounding it
 - [x] Why is this data talked about so much when it comes to data analytics
@@ -227,7 +243,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [x] Scatter plots of multiple columns with coloured data points
 
 **5 - Update Project Plan as research progresses and additional information becomes apparent**
-- [ ] Consider any new information learned as part of the project plan
+- [x] Consider any new information learned as part of the project plan
 
 **6 - How to run the Python code and what it does**
 - [x] pihist.py
