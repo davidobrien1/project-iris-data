@@ -11,6 +11,8 @@ Fisher's Iris Data set is a multivariate data set introduced by the British stat
 
 ### Summary Statistics of the Data Set
 
+The table below shows some summary statistics of the Iris Data set.  This information was obtained by running the code in the file projectiris.py
+
 Description | Sepal Length | Sepal Width | Petal Length | Petal Width
 ----------- | ------------ | ----------- | ------------ | ------------
 Minimum Value | 4.3 | 2.0 | 1.0 | 0.1
@@ -20,6 +22,8 @@ Median Value | 5.8 | 3.0 | 4.35 | 1.3
 Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 **Histograms**
+
+The following histograms were created using the code in pihist.py.
 
 ![Histogram of Sepal Length](https://github.com/davidobrien1/project-iris-data/blob/master/Images/1%20-%20Histogram-Sepal%20Length.png)
 
@@ -31,6 +35,8 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 
 **Scatter Plots**
 
+The following scatter plots were created using the code in scatterplot.py.
+
 ![Scatter Plot of Sepal Length vs Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/5%20-%20Scatter%20-%20Sepal%20Lenth%20vs%20Sepal%20Width.png)
 
 ![Scatter Plot of Petal Length vs Petal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/6%20-%20Scatter%20-%20Petal%20Lenth%20vs%20Petal%20Width.png)
@@ -40,6 +46,8 @@ Standard Deviation | 0.825 | 0.432 | 1.759 | 0.761
 ![Colour Scatter Plot of Sepal Length vs Sepal Width](https://github.com/davidobrien1/project-iris-data/blob/master/Images/8%20-%20Colour%20Scatter%20-%20Petal%20Length%20vs%20Petal%20Width.png)
 
 **Matrix Plot**
+
+The following matrix plots were created using the code in matrix.py.
 
 ![Matrix Plot of all variables](https://github.com/davidobrien1/project-iris-data/blob/master/Images/9%20-%20Matrix%20Plot.png)
 
