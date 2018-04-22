@@ -101,6 +101,17 @@ Note that the Fisher's Iris data file is located [here](https://github.com/david
 
 As the first part of this project involved creating the project plan within the Readme file, I found myself researching various formatting syntax for Markdown files.  Much of the information found online seems to be repetitive and I found that the references in [2](https://guides.github.com/features/mastering-markdown/) and [3](https://help.github.com/articles/basic-writing-and-formatting-syntax/) below cover much of the information I required for this project.
 
+### Other analyses of the Iris Data set
+
+**Ritvik Raj**
+
+The analysis of the Iris data set used in reference [30](https://guides.github.com/features/mastering-markdown/) by Ritvik Raj uses multiple modules for Python including sys, scipy, numpy, matplotlib, pandas, and scikit-learn.  The data set is loaded directly from the UCI machine learning repository as opposed to my method of downloading the file locally (except where i am creating the matrix plot using seaborn).
+
+The dataset summary includes additional information to my summary including the count and percentiles of the different types of data.  On further research, I learnt that the pandas.dataframe.describe library is able to provide this information.
+
+
+
+
 ### References
 
 Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example, sort csv columns into arrays python, matplotlib multiple array scatter plot, plot data points in different colors matplotlib, matplotlib scatter color by value
@@ -163,6 +174,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 29 - https://seaborn.pydata.org/examples/scatterplot_matrix.html
 
+30 - https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
+
 
 
 **-------------------------------------------------------------------------------------------**
@@ -189,7 +202,7 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
   - [x] Try to create matrix of graphs 
 
 **3 - Other analyses of the Iris data set**
-- [ ] Example 1
+- [ ] [Ritvik Raj](https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/)
 - [ ] Example 2
 - [ ] Example 3
 
@@ -208,9 +221,9 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [x] scatterplot.py
 
 **7 - Use of Python libraries and other modules**
-- [ ] Matplotlib
-- [ ] Numpy
-- [ ] Seaborn
+- [x] Matplotlib
+- [x] Numpy
+- [x] Seaborn
 
 **8 - Creating the Readme file**
 - [x] Discuss how the Readme file was created
@@ -218,7 +231,6 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 **9 - Use of Github**
 - [ ] Github
 - [ ] iPython
-- [ ] Item 3
 
 **10 - References**
 - [ ] Double check that use of data is licensed and referenced
