@@ -7,7 +7,7 @@
 
 ### Fisher's Iris Data Set Description
 
-Fisher's Iris Data set is a multivariate data set introduced by the British statistician Ronald Fisher [4](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+Fisher's Iris Data set is a multivariate data set introduced by the British statistician Ronald Fisher [4](https://en.wikipedia.org/wiki/Iris_flower_data_set).  The data set contains 150 samples of three different species of the Iris flower.  These are Iris Setosa (50 no.), Iris Versicolor (50 no.) and Iris Virginica(50 no.).  The data set includes the sepal length, sepal width, petal length, petal width and class of flower.
 
 ### Summary Statistics of the Data Set
 
