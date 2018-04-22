@@ -83,7 +83,7 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
 **Seaborn**
 
-Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics [28](https://seaborn.pydata.org/).  In this project, I used seaborn to matrix plot of the iris data set.  Using different parameters within this function, I was able to set the style (seaborn.set), load the data set from a github repoitory (seaborn.load_dataset) and plot pairwise relationships in the dataset (seaborn.pairplot).  Note that the code for this was taken directly from reference [29](https://seaborn.pydata.org/examples/scatterplot_matrix.html).  I found it very useful that this module was able to create such a detailed graph with little coding. 
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics [28](https://seaborn.pydata.org/).  In this project, I used seaborn to create a matrix plot of the iris data set.  Using different parameters within this function, I was able to set the style (seaborn.set), load the data set from a github repoitory (seaborn.load_dataset) and plot pairwise relationships in the dataset (seaborn.pairplot).  Note that the code for this was taken directly from reference [29](https://seaborn.pydata.org/examples/scatterplot_matrix.html).  I found it very useful that this module was able to create such a detailed graph with little coding. 
 
 
 ### How to run the Python Code and what it does
@@ -136,11 +136,9 @@ Different statistical methods are then used to find patterns between the variabl
 
 Github was used to create the repository for this project.  I find it was a very useful tool in tracking the history of the code used and it clearly shows how the code was developed.  I found it useful for confirming that the syntax being used in the readme file was correct.
 
-###
-
 ### References
 
-Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example, sort csv columns into arrays python, matplotlib multiple array scatter plot, plot data points in different colors matplotlib, matplotlib scatter color by value
+Search terms used - iris data set, fisher's iris data set, iris flower data set, multivariate data set, Anderson's iris data set, Ronald Fisher, iris data set analysis, scatter plot numpy, matplotlib scatter plot example, sort csv columns into arrays python, matplotlib multiple array scatter plot, plot data points in different colors matplotlib, matplotlib scatter color by value, straight line on scatter plot python
 
 1 - https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
 
@@ -206,6 +204,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 
 32 - https://www.youtube.com/watch?v=hd1W4CyPX58
 
+33 - https://stackoverflow.com/questions/40516661/adding-line-to-scatter-plot-using-pythons-matplotlib
+
 
 
 **-------------------------------------------------------------------------------------------**
@@ -262,8 +262,8 @@ Search terms used - iris data set, fisher's iris data set, iris flower data set,
 - [x] Github
 
 **10 - References**
-- [ ] Double check that use of data is licensed and referenced
+- [x] Double check that use of data is licensed and referenced
 
 
 **11 - Review**
-- [ ] Review all project items for any errors and improvements
+- [x] Review all project items for any errors and improvements
